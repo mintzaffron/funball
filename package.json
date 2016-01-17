@@ -1,5 +1,5 @@
 {
-  "name": "funnyball",
+  "name": "funball",
   "version": "0.1.0",
   "dependencies": {
     "express": "^4.13.3"
@@ -11,13 +11,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mintzaffron/funnyball.git"
+    "url": "git+https://github.com/mintzaffron/funball.git"
   },
   "author": "AmirSaber Sharifi",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/mintzaffron/funnyball/issues"
+    "url": "https://github.com/mintzaffron/funball/issues"
   },
-  "homepage": "https://github.com/mintzaffron/funnyball#readme",
+  "homepage": "https://github.com/mintzaffron/funball#readme",
   "description": ""
 }
